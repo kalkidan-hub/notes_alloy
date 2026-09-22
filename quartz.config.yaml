@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: kalkidan-hub.github.io/Note_on_Alloy
+  baseUrl: kalkidan-hub.github.io/notes_alloy
   ignorePatterns:
     - private
     - templates
